@@ -1,0 +1,23 @@
+{
+  "name": "snipcart_hosting_article",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eleventy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfjedimaster/snipcart_hosting_article.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cfjedimaster/snipcart_hosting_article/issues"
+  },
+  "homepage": "https://github.com/cfjedimaster/snipcart_hosting_article#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
